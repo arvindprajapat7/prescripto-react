@@ -26,8 +26,10 @@ import doctor13 from './assets/images/doctor-13.png'
 import doctor14 from './assets/images/doctor-14.png'
 import doctor15 from './assets/images/doctor-15.png'
 import bannerDoctor from './assets/images/banner-image.png'
+import aboutImage from './assets/images/about-image.png'
+import contactImage from './assets/images/contact-image.png'
 
-export const assets = {logo, profileIcon, downArrow, profileImg2, profileImg3, heroImage, generalPhysician, Gynecologist, Dermatologist, Pediatricians,Neurologist,Gastroenterologist, doctor1,doctor2,doctor3,doctor4,doctor5,doctor6,doctor7,doctor8,doctor9,doctor10,doctor11,doctor12,doctor13,doctor14,doctor15, bannerDoctor }
+export const assets = {logo, profileIcon, downArrow, profileImg2, profileImg3, heroImage, generalPhysician, Gynecologist, Dermatologist, Pediatricians,Neurologist,Gastroenterologist, doctor1,doctor2,doctor3,doctor4,doctor5,doctor6,doctor7,doctor8,doctor9,doctor10,doctor11,doctor12,doctor13,doctor14,doctor15, bannerDoctor, aboutImage,  contactImage}
 
 
 
