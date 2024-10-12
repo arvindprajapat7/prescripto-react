@@ -20,7 +20,6 @@ const RelatedDoctors = () => {
         
         setRealatedDoctors(relatedDoc)
     }
-    console.log(realtedDoctors)
     useEffect(()=>{
         fetchRelatedDoctors()
     },[docId])
